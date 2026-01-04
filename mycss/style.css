@@ -1,0 +1,30 @@
+h1{
+    color: rgb(0, 0, 0) ;
+    text-align: center;
+        padding: 8px;
+
+}
+h2{
+    color: rgb(43, 39, 35);
+    background-color: antiquewhite;
+    text-align: center;
+        padding: 8px;
+
+}
+h3{
+    background-color: antiquewhite ;
+    text-align: center;
+        padding: 8px;
+
+}
+h5{
+    background-color: antiquewhite;
+    padding: 8px;
+    text-align: center;
+}
+.langueseclass{
+    color: rebeccapurple;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
